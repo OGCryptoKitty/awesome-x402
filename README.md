@@ -179,3 +179,5 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 This list is offered under CC0; see upstream specs for their respective licenses.
 
 - [AgentBridge](https://github.com/tianzizhiming-svg/agentbridge) — Pay-per-fetch gateway for Chinese web content (Xiaohongshu, Zhihu, etc.). Returns clean markdown, settled in USDC on Base via x402.
+
+- [HYDRA Regulatory Intelligence](https://hydra-api-nlnj.onrender.com) - Autonomous regulatory intelligence API with 55 x402-paid endpoints. 13 real-time data sources, FOMC rate model, prediction market signals, composite alpha. ([GitHub](https://github.com/OGCryptoKitty/hydra-arm3))
